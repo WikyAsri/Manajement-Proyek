@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: wasri28/Manajement-Proyek:latest
+          tags: wasri28/manajement-proyek:latest
